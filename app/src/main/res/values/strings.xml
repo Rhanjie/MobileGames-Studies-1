@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Guess The Number [Marcin Dyla]</string>
+    <string name="NewGame">New Game</string>
+    <string name="Hint">Enter the number</string>
+    <string name="Apply">Apply</string>
+    <string name="Level">Difficulty</string>
+    <string-array name="Levels">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Very Hard</item>
+    </string-array>
+
+    <string name="SelectedLevel">Selected level: %1$s</string>
+    <string name="Tip">Guess number from [%1$d] to [%2$d]</string>
+
+    <string name="Guessed">You guessed it!</string>
+    <string name="TooFew">Too few…</string>
+    <string name="TooMany">Too many…</string>
+    <string name="AttemptsAmount">%1$s\nNumber of attempts: %2$d</string>
+</resources>
