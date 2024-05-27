@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
 
             String information;
             if (comparison == 0) {
-                information = getString(R.string.Level);
+                information = getString(R.string.Guessed);
 
                 OnStartClick(view);
             }
